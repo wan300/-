@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.scene
+    guid: 870774771ad77e7428b677d7fb33640e
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 7a6c991112cc94f76b954fbdd147dd5a
+  - enabled: 1
+    path: Assets/Scenes/Main2.scene
+    guid: 450fc25c2a0ed5644b1803838e163ed4
+  - enabled: 1
+    path: Assets/Scenes/Main3.scene
+    guid: e2f343467368e3340ae216e3897248cf
+  - enabled: 1
+    path: Assets/Scenes/End.scene
+    guid: 582f95bf8e242ff4999c45a03fd693fc
+  - enabled: 1
+    path: Assets/Scenes/PauseScene.scene
+    guid: c9c89374eb48b6d4c816a6654469a64a
+  - enabled: 1
+    path: Assets/Scenes/NormalMode.scene
+    guid: 42b6136b57895e4449c193ee55209b1f
+  - enabled: 1
+    path: Assets/Scenes/Ranking.scene
+    guid: 0a9fb6d7287e1244ab25db8797334004
+  - enabled: 1
+    path: Assets/Scenes/Main4.scene
+    guid: 2f46d3902ab13b846a11a7a836c90786
+  - enabled: 1
+    path: Assets/Scenes/Main5.scene
+    guid: 42b22a33067b3054d855072983f4563d
+  - enabled: 1
+    path: Assets/Scenes/End 1.scene
+    guid: 32d2ec5aa5a56e44d9ee396552bcf8cd
+  - enabled: 1
+    path: Assets/Scenes/Start 1.scene
+    guid: a1d915571249d19469c1148e929056b6
+  - enabled: 1
+    path: Assets/Scenes/Help.scene
+    guid: cb3de0be4a2850148a2ef5afeb2d6f86
+  m_configObjects: {}
+  m_SlimFeaturesWeixinMiniGame:
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 1
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2

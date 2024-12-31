@@ -1,0 +1,4 @@
+repository "lianlinakan2@tj_wan300@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
